@@ -1,0 +1,6 @@
+# Compiled executables
+*.exe
+minios
+
+# Object files
+*.o
